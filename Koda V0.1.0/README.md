@@ -1,1 +1,2 @@
-# Koda\n\nCode Snippet Manager with modular structure.
+# Koda
+Code Snippet Manager with modular structure.
